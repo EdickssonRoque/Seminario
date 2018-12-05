@@ -1,0 +1,114 @@
+html{
+  zoom:105%
+}
+.cuerpo div{
+	width: 95px;
+	height: 95px;
+	border: solid 1px;
+	text-align: center;
+	border-radius: 10px;
+}
+.atomico{
+font-size: 15px;
+line-height: 0px;
+}
+.simbolo{
+font-size: 	25;
+line-height: 0px;
+}
+.nombre{
+font-size: 	13;
+line-height: 0px;
+}
+.peso{
+font-size: 	10px; 
+line-height: 0px;
+}
+.gas{
+	background: #00FF00;
+	-webkit- transition: -duration:0.9s;
+}
+.gas:hover{
+	background: #7CFC00;
+	-webkit- transform: scale(1.2);
+}
+
+.alcalino{
+	background: #F08080;
+	-webkit- transition: -duration:0.9s;
+}
+.alcalino:hover{
+	background: #FA8072;
+	-webkit- transform-style: scale(1.2);
+
+}
+.alcalinoT{
+	background: #FFDEAD;
+	-webkit- transition: -duration:0.9s;
+}
+
+.alcalinoT:hover{
+	background: #EB984E;
+	-webkit- transform: scale(1.2);
+}
+.metalesT{
+	background: #00FF7F;
+	-webkit- transition: -duration:0.9s;
+}
+.metalesT:hover{
+	background: #00FA9A;
+	-webkit- transform-style: scale(1.2);
+}
+.lactinidos{
+	background:#DDA0DD;
+	-webkit- transition: -duration:0.9s;
+}
+.lactinidos:hover{
+	background: #DA70D6;
+	-webkit- transform-style: scale(1.2);
+
+}
+.actinidos{
+	background: #FF00FF;
+	-webkit- transition: -duration:0.9s;
+}
+.actinidos:hover{
+	background: #FF69B4;
+	-webkit- transform-style: scale(1.2);
+
+}
+.otrosmetales{
+	background: #FFC300;
+	-webkit- transition: -duration:0.9s;
+}
+.otrosmetales:hover{
+	background: #FFFF00;
+	-webkit- transform-style: scale(1.2);
+
+}
+.metaloides{
+	background: #8A2BE2;
+	-webkit- transition: -duration:0.9s;
+}
+.metaloides:hover{
+	background: #9370DB;
+	-webkit- transform-style: scale(1.2);
+}
+.alogenos{
+	background: #FAE5D3;
+	-webkit- transition: -duration:0.9s;
+}
+.alogenos:hover{
+	background: #FAD7A0;
+	-webkit- transform-style: scale(1.2);
+}
+.gasesN{
+	background: #B0E0E6;
+	-webkit- transition: -duration:0.9s;
+}
+.gasesN:hover{
+	background: #00BFFF;
+	-webkit- transform-style: scale(1.2);
+}
+
+
